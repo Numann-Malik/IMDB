@@ -39,6 +39,7 @@ https://developer.imdb.com/non-commercial-datasets/
 
 - Hypothesis test result and visualization: Reject the null hypothesis.
 
-![HT1](HT1.png)
+<img src="HT1.png" width=800px>
+</center>
 
 - Tukey's multiple comparison test confirmed there were significant differences in revenue between all certification pairs except PG and PG-13.
